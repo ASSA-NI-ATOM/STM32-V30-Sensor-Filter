@@ -57,7 +57,7 @@ float clean_data = V30_Process(&filter, raw_data);
 This repository contains the header files and documentation.
 The **compiled library (`libv30_cortex.a`)** is available for download here:
 
-👉 **[Download V30 Core Library (Gumroad)](https://polynet-lab.gumroad.com/l/v30-core)**
+👉 **[Download V30 Core Library (Gumroad)]([https://polynet-lab.gumroad.com/l/v30-core](https://polynetlab.gumroad.com/l/v30-core))**
 
 *License: Royalty-free for personal and small-scale commercial use (<1000 units).*
 
